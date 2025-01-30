@@ -49,7 +49,8 @@ AI lawset monitoring console - must be made with exotic materials. Initially sho
 While research points costs should not be prohibitivly expensive, they should be a significant investment to disincentivise spamming the consoles
 
 ### Law boards
-Lawsets are no longer available roundstart, they are instead printed from the circuit imprinter. Lawboards are available as tier 2 or 3 technology (Particularly powerful/Meta ones such as Nutimov should be tier 3)
+Lawsets are no longer available roundstart, they are instead printed from the circuit imprinter. Lawboards are available as tier 2 or 3 technology (Particularly powerful/Meta ones such as Nutimov should be tier 3)</br>
+More hostile lawsets could be added as a potential EMAG interaction
 
 ### Law Changes
 Law changes should be considered part of RDs remit, and (especially under Green alert/similar) occur at their discretion. 
@@ -70,3 +71,7 @@ The more permissive and powerful a lawset, the harder it should be to access (th
 These should be rather permissive, although they may have a gimmick to enocourage using certain methods/roleplay shticks
   Gimmicks should not enourage other players to break rules or self-antag (E.g. a cult leader lawset)
 These should (usually) allow for crew harm
+
+
+## Implementation Notes
+Malf-AI rounds should only occur when there is a roundstart AI *and* a roundstart captain or research director, to ensure that someone is able to access the required consoles.
